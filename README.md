@@ -14,10 +14,10 @@ Tableau –> Dashboard development and forecasting,
 PowerPoint –> Executive presentation of findings.
 
 Key Findings - 
--Global & Brand Performance
--USA is HMC’s top-performing region (24M+ units).
--Apechete and Tatra lead in brand-level gross sales.
--Special brand is underperforming.
+Global & Brand Performance,
+USA is HMC’s top-performing region (24M+ units),
+Apechete and Tatra lead in brand-level gross sales,
+Special brand is underperforming.
 
 Financial Analytics - 
 Advantage model shows the highest contribution margin (~4M).
@@ -25,9 +25,9 @@ Advantage model shows the highest contribution margin (~4M).
 -Chare exhibits the highest cost variability, signaling risk.
 
 Operational Analytics-
-Most sold option: Power Mirror (1,295 units).
--Longest time on lot: Island model (~147 days).
--Shortest: Summet and Mortimer (~95 days).
+Most sold option: Power Mirror (1,295 units),
+-**Longest time on lot**: Island model (~147 days).
+-**Shortest**: Summet and Mortimer (~95 days).
 
 Forecasting Insights
 Sales expected to stabilize, then sharply drop in Q4 2017.
