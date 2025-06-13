@@ -9,29 +9,29 @@ Assess operational efficiency: top-selling options, inventory turnover.
 Forecast sales volume and contribution margins for the next 4 quarters.
 
 Tools Used -
-Excel – Data cleaning and structuring
-Tableau – Dashboard development and forecasting
-PowerPoint – Executive presentation of findings
+Excel –> Data cleaning and structuring
+Tableau –> Dashboard development and forecasting
+PowerPoint –> Executive presentation of findings
 
 Key Findings - 
-Global & Brand Performance
-USA is HMC’s top-performing region (24M+ units).
-Apechete and Tatra lead in brand-level gross sales.
-Special brand is underperforming.
+-Global & Brand Performance
+-USA is HMC’s top-performing region (24M+ units).
+-Apechete and Tatra lead in brand-level gross sales.
+-Special brand is underperforming.
 
 Financial Analytics - 
 Advantage model shows the highest contribution margin (~4M).
-Jespie and Mortimer models have negative or very low margins.
-Chare exhibits the highest cost variability, signaling risk.
+-Jespie and Mortimer models have negative or very low margins.
+-Chare exhibits the highest cost variability, signaling risk.
 
 Operational Analytics-
 Most sold option: Power Mirror (1,295 units).
-Longest time on lot: Island model (~147 days).
-Shortest: Summet and Mortimer (~95 days).
+-Longest time on lot: Island model (~147 days).
+-Shortest: Summet and Mortimer (~95 days).
 
 Forecasting Insights
 Sales expected to stabilize, then sharply drop in Q4 2017.
-Contribution margin follows a similar declining trend.
+-Contribution margin follows a similar declining trend.
 
 
 
