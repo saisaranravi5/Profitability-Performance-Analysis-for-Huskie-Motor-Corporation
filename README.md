@@ -33,7 +33,7 @@ Forecasting Insights
 Sales expected to stabilize, then sharply drop in Q4 2017.
 -Contribution margin follows a similar declining trend.
 
-
+![HMC_Global_Performance](V1.png)
 
 
 
