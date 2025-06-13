@@ -9,9 +9,9 @@ Assess operational efficiency: top-selling options, inventory turnover.
 Forecast sales volume and contribution margins for the next 4 quarters.
 
 Tools Used -
-Excel –> Data cleaning and structuring
-Tableau –> Dashboard development and forecasting
-PowerPoint –> Executive presentation of findings
+Excel –> Data cleaning and structuring,
+Tableau –> Dashboard development and forecasting,
+PowerPoint –> Executive presentation of findings.
 
 Key Findings - 
 -Global & Brand Performance
